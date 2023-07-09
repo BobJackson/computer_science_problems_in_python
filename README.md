@@ -1,3 +1,3 @@
 # Learn python by classic cs problems
 
-learn a new program language is using it.
+The best way to learn a new program language is using it.
